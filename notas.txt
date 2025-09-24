@@ -30,7 +30,7 @@ npm start
         "react-dom": "^19.1.0",
 
 #Aula 5
-Criado novo app
+Criado novo app com login e senha
 $ npx create-expo-app --template
 √ Choose a template: » Blank
 √ What is your app named? ... app-transicao-tela
@@ -42,3 +42,15 @@ npm install @expo/metro-runtime --legacy-peer-deps
 npm install @react-navigation/native --legacy-peer-deps
 npm install @react-navigation/native-stack --legacy-peer-deps
 npm install react-native-screens react-native-safe-area-context  --legacy-peer-deps
+
+#Aula 6 - Banco de dados
+$ npx create-expo-app --template
+√ Choose a template: » Blank
+√ What is your app named? ... app-db-async
+npm install react-native-web --legacy-peer-deps
+npm install react-dom@19.1.0 --legacy--peer-deps
+npm install @expo/metro-runtime --legacy-peer-deps
+npm install @react-native-async-storage/async-storage --legacy-peer-deps
+npm install @react-navigation/native --legacy-peer-deps
+npm install @react-navigation/stack --legacy-peer-deps
+até aqui abriu o app padrão....
