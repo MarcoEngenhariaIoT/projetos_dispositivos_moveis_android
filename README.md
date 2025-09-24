@@ -1,2 +1,9 @@
-# projetos_dispositivos_moveis_android
-Repositório para armazenamento dos códigos feitos em aula de dispositivos móveis Android
+# Dispositivos Móveis
+
+Esse repositório tem como objetivo armazenar todos os nossos códigos da disciplina de progrmaação para dispositivos móveis em Android.
+
+## Tecnologias
+
+- Node > 16
+- React Native
+- Firebase
