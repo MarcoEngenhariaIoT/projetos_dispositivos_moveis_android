@@ -22,4 +22,10 @@ npm start
         npm install @expo/metro-runtime --legacy-peer-deps
         npm start
             #selecionar w para abrir na web "lhttp://localhost:8081/"
+    #Deu erro no browser
+    npm uninstall react-dom --legacy-peer-deps
+    npm install react-dom@19.1.0 --legacy-peer-deps
+    #coloquei o react-dom na mesma versão do react
+        "react": "19.1.0",
+        "react-dom": "^19.1.0",
 
