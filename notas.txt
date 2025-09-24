@@ -1,1 +1,25 @@
 Arquivo de notas gerais descritivos
+comandos:
+node --version
+npm --verion
+node teste.js
+npm install -g expo-cli
+npx --version
+npx create-expo-app --template 
+    #selecionar blank
+    #dar um nome para o aplicativo
+#depois de criar o aplicativo vamos executar
+cd app-ola
+npm start
+    #selecionar o dispositivo ou mandar abrir na web, mas precisa instalar a biblioteca para web.
+    npm install react-dom --legacy-peer-deps
+    npm install @expo/metro-runtime --legacy-peer-deps
+        #instalar uma versão expecífica
+        #parar o servidor
+        clear
+        npm install react-native-web --legacy-peer-deps
+        npm install react-dom@18.3.1 --legacy-peer-deps
+        npm install @expo/metro-runtime --legacy-peer-deps
+        npm start
+            #selecionar w para abrir na web "lhttp://localhost:8081/"
+
