@@ -29,3 +29,16 @@ npm start
         "react": "19.1.0",
         "react-dom": "^19.1.0",
 
+#Aula 5
+Criado novo app
+$ npx create-expo-app --template
+√ Choose a template: » Blank
+√ What is your app named? ... app-transicao-tela
+
+#para poder abrir no navegador
+npm install react-native-web --legacy-peer-deps
+npm install react-dom@19.1.0 --legacy--peer-deps
+npm install @expo/metro-runtime --legacy-peer-deps
+npm install @react-navigation/native --legacy-peer-deps
+npm install @react-navigation/native-stack --legacy-peer-deps
+npm install react-native-screens react-native-safe-area-context  --legacy-peer-deps
